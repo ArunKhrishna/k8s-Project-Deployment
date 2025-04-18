@@ -27,7 +27,7 @@ spec:
     spec:
       containers:
         - name: hello
-          image: alvinselva/alvink8simage:latest
+          image: arunkhrishna/arunk8simage:latest
           imagePullPolicy: Always
 
 
